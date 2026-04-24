@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境配置文件 (包含敏感信息)
+.env
+
+# 向量数据库存储 (本地数据不需要上传)
+chroma_db/
+md5.text
+
+# 日志文件
+logs/
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 项目特定排除
+data/external/
+resume_description.md
+check_amap.py
