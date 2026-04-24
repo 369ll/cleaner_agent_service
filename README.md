@@ -26,8 +26,8 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/369ll/cleaner_agent_service.git
+cd cleaner_agent_service
 ```
 
 ### 2. 安装依赖
