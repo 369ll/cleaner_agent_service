@@ -37,6 +37,5 @@ logs/
 .idea/
 
 # 项目特定排除
-data/external/
 resume_description.md
 check_amap.py
